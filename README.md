@@ -3,7 +3,7 @@
 
 -> This project includes tree data structure.
 
--> Radix Sort algorithm is used in this project.
+-> Radix Sort algorithm,Queue structure,AVL tree is used in this project.
 
 
 
