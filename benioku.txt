@@ -1,0 +1,6 @@
+Programı çalıştırdıktan sonra dosya içeriği uzun olduğu için derlenmesi 5-10 saniye arası sürebilir.
+Eğere program çalışmaz,bug a girer ise tekrarda derleyiniz.
+Programı çalıştırmak için "make" komutu çalışmaz ise "mingw32-make" komutunu kullanınız.
+Eğer ödevi visual studio code ile derlemek isterseniz vscode dosyası olmadığı için ilk başta makefile hatası alıcaksınız kapat aç yaptıktan sonra hata düzelecektir.
+Ödevi cmd konsolunda derlemeniz daha sağlıklı olacaktır.
+
